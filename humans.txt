@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ilya Navumau    INavumau@gomel.iba.by
 
 # THANKS
 
